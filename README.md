@@ -79,7 +79,9 @@ applications,” Bell System Tech. J., vol.48, pp. 1249-1292, 1969.
 
 ## Author
 S. Pratyusha,
+
 ECE, Btech Completed,
+
 RGUKT IIIT NUZVID.
 
 
