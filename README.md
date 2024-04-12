@@ -77,6 +77,9 @@ Math., 32, pp. 83-117, 1979.
 [5] L. R. Rabiner, R. W. Schaefer and C. M. Rader, “The chirp-z transform algorithm and its
 applications,” Bell System Tech. J., vol.48, pp. 1249-1292, 1969.
 
-
+## Author
+S. Pratyusha,
+ECE, Btech Completed,
+RGUKT IIIT NUZVID.
 
 
